@@ -1,4 +1,5 @@
 # Design-of-Power-Efficient-Multipliers-using-Carry-Disregard-Technique
 
-**OVERVIEW **                                                                                                                                                       
+OVERVIEW                                                                                                                                                       
  Approximate computation is one of the best ways for reducing power consumption and reduces the significant calculation complexities. Approximate circuits have been considered for error-tolenint applications that can tolerate some loss of accuracy with energy efficiency and reduces complexity. design of an approximate N-bit array multipliers based on carry disregarding is proposed aiming at reducing the power consumption and reduces calculation of complexities. The technique involves designing of array multipliers based on carry disregard. Carries can be ignored in various ways, and each method leads to different results regarding the criteria of accuracy and hardware. The necessary simulations will be carried out using ECAD tool like Cadence, Xillinx etc., and the power will be calculated.
+**EXISTING METHOD**
